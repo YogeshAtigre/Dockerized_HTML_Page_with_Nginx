@@ -11,7 +11,7 @@ Files
 ## Steps to Build and Run
 
 Clone the repository :
-   git clone https://github.com/your-username/dockerized-html-page.git
+   git clone https://github.com/YogeshAtigre/Dockerized_HTML_Page_with_Nginx
 
 Build the Docker image:
 docker build -t <image-name> .
